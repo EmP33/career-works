@@ -1,0 +1,13 @@
+.app {
+  width: 80%;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 1rem;
+
+  background-color: var(--color-gray);
+  color: rgb(195, 195, 195);
+
+  &__list {
+    width: 100%;
+  }
+}
