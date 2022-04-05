@@ -1,0 +1,11 @@
+.quote {
+  width: 100%;
+  padding: 1rem;
+  font-size: 2.5rem;
+  cursor: pointer;
+
+  &:hover {
+    filter: brightness(150%);
+    background-color: var(--color-black);
+  }
+}
