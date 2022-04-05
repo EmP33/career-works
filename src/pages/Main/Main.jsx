@@ -11,16 +11,23 @@ const Main = () => {
       <ul styleName="app__list">
         <ListElement
           title="Quote Generator"
-          description="Generate random Quote"
+          description="Generate random Quote [CSSModules, SCSS, React-Icons, React Hooks (useState, useEffect, useReducer), Quote API, Twitter ]"
+          link="quote"
         />
         <ListElement
           title="Infinity Scroll"
           description="Fetch pictures during scrolling"
+          link="scroll"
         />
-        <ListElement title="Picture In Picture" description="Detached screen" />
+        <ListElement
+          title="Picture In Picture"
+          description="Detached screen"
+          link="picture"
+        />
         <ListElement
           title="Light and Dark Mode"
           description="Switch between dark and light mode"
+          link="modes"
         />
       </ul>
     </main>

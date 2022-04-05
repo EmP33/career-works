@@ -2,9 +2,13 @@ import React from "react";
 import CSSModules from "react-css-modules";
 import styles from "./ListElement.module.scss";
 
-const ListElement = ({ title, description }) => {
+import { useNavigate } from "react-router-dom";
+
+const ListElement = ({ title, description, link }) => {
+  const navigate = useNavigate();
+
   return (
-    <li styleName="quote">
+    <li styleName="quote" onClick={() => navigate(`/${link}`)}>
       <h3>{title}</h3>
       <h6>{description}</h6>
     </li>
