@@ -1,0 +1,112 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Guess My Number",
+      "description": "Project created during The Complete JavaScript Course 2022: From Zero to Exprert! by Jonas Schmedtmann. This Project includes basic of JavaScript language witch I repeated in the process of creating this project.",
+      "image": "project1",
+      "haveBiggerImage": false,
+      "url": "https://emp33.github.io/GMN/",
+      "github": "https://github.com/EmP33/GMN"
+    },
+    {
+      "id": 2,
+      "title": "Mapty App",
+      "description": "Project created during The Complete JavaScript Course 2022: From Zero to Exprert! by Jonas Schmedtmann. I learned about OOP (Object-Oriented Programming) thanks to this project, and how to implement geolocation in JavaScript. This project also includes using external libraries.",
+      "image": "project2",
+      "haveBiggerImage": false,
+      "url": "https://emp33.github.io/Map-App/",
+      "github": "https://github.com/EmP33/Map-App"
+    },
+    {
+      "id": 3,
+      "title": "Pig Game",
+      "description": "Project created during The Complete JavaScript Course 2022: From Zero to Exprert! by Jonas Schmedtmann. This Project includes basic of JavaScript language witch I repeated in the process of creating this project. Same as Guess my Number :)",
+      "image": "project3",
+      "haveBiggerImage": false,
+      "url": "https://emp33.github.io/pig-game/",
+      "github": "https://github.com/EmP33/pig-game"
+    },
+    {
+      "id": 4,
+      "title": "React Meetups",
+      "description": "Project created during React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmuller. During this project I've learned something about Next.js and combining it with MongoDB.",
+      "image": "project4",
+      "haveBiggerImage": true,
+      "url": "https://nextjs-emp33.vercel.app/",
+      "github": "https://github.com/EmP33/NextJS-Meetups"
+    },
+    {
+      "id": 5,
+      "title": "React Firebase Auth",
+      "description": "Simple authentication app created using react and firebase. App allows you to create and login account and also update email and password and send change password mail to your email to reset password.",
+      "image": "project5",
+      "haveBiggerImage": false,
+      "url": "https://react-firebase-auth-cyan.vercel.app/",
+      "github": "https://github.com/EmP33/react-firebase-auth"
+    },
+    {
+      "id": 6,
+      "title": "Trillo Project",
+      "description": "Project created during Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmedtmann. During this project I expanded my knowledge about flexbox, sass and I've used postcss.",
+      "image": "project6",
+      "haveBiggerImage": true,
+      "url": "https://marcode2021.github.io/trillo-project/#",
+      "github": "https://github.com/Marcode2021/trillo-project"
+    },
+    {
+      "id": 7,
+      "title": "Nexter Project",
+      "description": "Project created during Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmedtmann. During this project I expanded my knowledge about grid and sass. Also I learned about npm scripts.",
+      "image": "project7",
+      "haveBiggerImage": true,
+      "url": "https://marcode2021.github.io/nexter-project/",
+      "github": "https://github.com/Marcode2021/nexter-project"
+    },
+    {
+      "id": 8,
+      "title": "Book Keeper",
+      "description": "Simple Book Keeper project using JS to practice my knowledge which I got. This project used local storage to get and contain data about bookmarks.",
+      "image": "project8",
+      "haveBiggerImage": false,
+      "url": "https://marcode2021.github.io/book-keeper/",
+      "github": "https://github.com/Marcode2021/book-keeper"
+    },
+    {
+      "id": 9,
+      "title": "Spock Rock Game",
+      "description": "Spock Rock Game is being created using JavaScript to practice my knowledge whitch I got. In this project I used switch statement to display UI.",
+      "image": "project9",
+      "haveBiggerImage": false,
+      "url": "https://marcode2021.github.io/Spock-rock-game/",
+      "github": "https://github.com/Marcode2021/Spock-rock-game"
+    },
+    {
+      "id": 10,
+      "title": "Math Sprint Game",
+      "description": "Math Sprint Game is being created using JavaScript to practice my knowledge which I got. In this project I used dozens features which were added in modern JS.",
+      "image": "project10",
+      "haveBiggerImage": false,
+      "url": "https://marcode2021.github.io/Math-Sprint-Game/",
+      "github": "https://github.com/Marcode2021/Math-Sprint-Game"
+    },
+    {
+      "id": 11,
+      "title": "React Meals",
+      "description": "Project created during React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmuller. During this project I've learned something about firebase and dived deeper in React.",
+      "image": "project11",
+      "haveBiggerImage": true,
+      "url": "https://react-meals-fawn.vercel.app/",
+      "github": "https://github.com/Marcode2021/ReactMeals"
+    },
+    {
+      "id": 12,
+      "title": "Drag&Drop",
+      "description": "Drag and Drop Project is another project to practice my knowledge about JS. This project using new features in modern JS and local storage.",
+      "image": "project12",
+      "haveBiggerImage": false,
+      "url": "https://marcode2021.github.io/Drag-and-Drop/",
+      "github": "https://github.com/Marcode2021/Drag-and-Drop"
+    }
+  ]
+}

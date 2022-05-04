@@ -1,4 +1,4 @@
-import Main from "./Main/Main";
-import QuoteGenerator from "./QuoteGenerator/QuoteGeneratorPage";
+import MainPage from "./MainPage/MainPage";
+import ProjectPage from "./ProjectPage/ProjectPage";
 
-export { Main, QuoteGenerator };
+export { MainPage, ProjectPage };
